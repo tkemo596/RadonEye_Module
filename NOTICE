@@ -1,0 +1,39 @@
+RadonEye Driver for Ignition
+Copyright 2026 Arrington Automation Incorporated
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The RD200 Bluetooth protocol (service and characteristic UUIDs, query commands, and the reply
+layouts for version 1 and version 2 detectors) is ported from rd200v2
+(https://github.com/jdeath/rd200v2), used under the MIT License:
+
+    MIT License
+    
+    Copyright (c) 2023 jdeath
+    
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+    
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+    
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+The version 2 0x40 reply offsets for now/1-day/1-month were cross-checked against ESPHome's
+radon_eye_rd200 component (https://esphome.io, GPLv3/MIT); no ESPHome code is included.
+
+This is an independent module, not affiliated with or endorsed by FTLab or Ecosense. RadonEye is a
+trademark of its owner. Ignition is a trademark of Inductive Automation; this is not an Inductive
+Automation product.
+
+The Gradle wrapper (gradlew, gradlew.bat, gradle/wrapper/) is Apache-2.0, copyright Gradle, Inc.

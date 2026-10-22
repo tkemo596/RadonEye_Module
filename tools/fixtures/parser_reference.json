@@ -1,0 +1,238 @@
+[
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500a5d003607a0018b0f2349",
+   "40": "4048229e1fae29dc4c2878cc2d4147445244323030e456312e322e342e30a17091b9b9b5064dce2a7c36f8b7546527044474487011f7334748637f70b572b575105f5b3b",
+   "51": "510e0000f01503009418f8a5f7b352da"
+  },
+  "sensors": {
+   "radon": 93.0,
+   "radon_1day_level": 1846.0,
+   "radon_1month_level": 416.0,
+   "radon_C_now": 3979,
+   "radon_C_last": 18723,
+   "radon_peak": 4464.0,
+   "radon_uptime": 12133440,
+   "radon_uptime_string": "140d 10:24:00"
+  },
+  "sw": "V1.2.4.0",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500af7006602a2054bc6afb3",
+   "40": "40a633a6b757d7193d06a376181c416f52443230301656332e302e322020ac7c4abd5e4b0cf266a4d7f029b72a462a1f78bb55bc178fd0239830ebdc5f6a502185f3677b",
+   "51": "510e0000dfdd0700d6bd1929855569dc"
+  },
+  "sensors": {
+   "radon": 247.0,
+   "radon_1day_level": 614.0,
+   "radon_1month_level": 1442.0,
+   "radon_C_now": 50763,
+   "radon_C_last": 45999,
+   "radon_peak": 6076.0,
+   "radon_uptime": 30933060,
+   "radon_uptime_string": "358d 00:31:00"
+  },
+  "sw": "V3.0.2  ",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500a84011003e603ef386573",
+   "40": "40fb118cf9765cacaa1e4aa6466e1cc95244323030ae56312e322e342e304a254557c6ea379c9f8a44699ea68a5dcc3ce78291a04b2dd6bf3d49bd0b7347819459cc24fa",
+   "51": "510e0000b1b40500d707a3c8af85562b"
+  },
+  "sensors": {
+   "radon": 388.0,
+   "radon_1day_level": 784.0,
+   "radon_1month_level": 998.0,
+   "radon_C_now": 14575,
+   "radon_C_last": 29541,
+   "radon_peak": 19360.0,
+   "radon_uptime": 22436220,
+   "radon_uptime_string": "259d 16:17:00"
+  },
+  "sw": "V1.2.4.0",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500ac203ba03ad045c944a90",
+   "40": "400ea8e153d44a3726cb0a1b791e93325244323030ca56332e302e3220209040f217198e8b121bcdced76e5cb513f010efad5cd309dd89f755ab78d0020ce141b818ecb6",
+   "51": "510e0000073c0800ade254584c02d0f3"
+  },
+  "sensors": {
+   "radon": 962.0,
+   "radon_1day_level": 954.0,
+   "radon_1month_level": 1197.0,
+   "radon_C_now": 37980,
+   "radon_C_last": 36938,
+   "radon_peak": 2515.0,
+   "radon_uptime": 32379300,
+   "radon_uptime_string": "374d 18:15:00"
+  },
+  "sw": "V3.0.2  ",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500a1f0403001f015b68939d",
+   "40": "40b0c5b51e8ae5ac46f2d411ab6507055244323030db56312e322e342e30261e23e3424f0ddf7658f6cb75e6252e91fae7fc7e033f1f5ec2be4bfe420a5e18a599c7c0dc",
+   "51": "510e0000fdcf05007eb18546d9675119"
+  },
+  "sensors": {
+   "radon": 1055.0,
+   "radon_1day_level": 3.0,
+   "radon_1month_level": 287.0,
+   "radon_C_now": 26715,
+   "radon_C_last": 40339,
+   "radon_peak": 16131.0,
+   "radon_uptime": 22855500,
+   "radon_uptime_string": "264d 12:45:00"
+  },
+  "sw": "V1.2.4.0",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500af3013f002d04a1db876c",
+   "40": "40b7b37a1489c8f8b8e79b7a17b1ad395244323030e956332e302e32202048828e0b56e75146e0723715ccdd6a5f911134ebcfc6db227cebf48e94a6060da34adfdb0bbb",
+   "51": "510e0000db470600a2c8e8f746292a0a"
+  },
+  "sensors": {
+   "radon": 499.0,
+   "radon_1day_level": 63.0,
+   "radon_1month_level": 1069.0,
+   "radon_C_now": 56225,
+   "radon_C_last": 27783,
+   "radon_peak": 56262.0,
+   "radon_uptime": 24696660,
+   "radon_uptime_string": "285d 20:11:00"
+  },
+  "sw": "V3.0.2  ",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500a33001b005c06d9996319",
+   "40": "40f41e41441dc4249dbe6aca84101c2352443230304d56312e322e342e30eecb408417b68f375974e88ad12fce699607f8a93c6adbf7fa438bdb3e397957a975b4ad9692",
+   "51": "510e0000334c08004cf95e983eefc984"
+  },
+  "sensors": {
+   "radon": 51.0,
+   "radon_1day_level": 27.0,
+   "radon_1month_level": 1628.0,
+   "radon_C_now": 39385,
+   "radon_C_last": 6499,
+   "radon_peak": 56170.0,
+   "radon_uptime": 32627700,
+   "radon_uptime_string": "377d 15:15:00"
+  },
+  "sw": "V1.2.4.0",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500ab00111018307fa0a2032",
+   "40": "405cc670a105337155176d0dee0ea9ba52443230308956332e302e3220205f052d2164d553b20bfd4396b3b32fc263b1d618ed1502721f31c5455a864e5bfca8a6aaceb4",
+   "51": "510e0000a99f010093fc93689aaf96d3"
+  },
+  "sensors": {
+   "radon": 432.0,
+   "radon_1day_level": 273.0,
+   "radon_1month_level": 1923.0,
+   "radon_C_now": 2810,
+   "radon_C_last": 12832,
+   "radon_peak": 533.0,
+   "radon_uptime": 6384540,
+   "radon_uptime_string": "73d 21:29:00"
+  },
+  "sw": "V3.0.2  ",
+  "hw": "RD200"
+ },
+ {
+  "version": 2,
+  "unit": "Bq",
+  "replies": {
+   "50": "500af7035000e100d6719b",
+   "40": "407261b6091f45c65059e42d90b1926952443230307656312e322e342e303dad88aeabd39fc8423d3d9692bcc9ba53b52856d4bc4e8622585b322169",
+   "51": "510e0000d23308007673910420f852"
+  },
+  "sensors": {
+   "radon": null,
+   "radon_1day_level": null,
+   "radon_1month_level": null,
+   "radon_C_now": null,
+   "radon_C_last": null,
+   "radon_peak": null,
+   "radon_uptime": null
+  },
+  "sw": "",
+  "hw": ""
+ },
+ {
+  "version": 1,
+  "unit": "pCi",
+  "replies": {
+   "50": "500ccdc9583fcde06d41b0952941521cecf447cb",
+   "51": "510e00007083000092cd90f8e6c11740"
+  },
+  "sensors": {
+   "radon": 0.85,
+   "radon_1day_level": 14.87,
+   "radon_1month_level": 10.6,
+   "radon_peak": 2.37,
+   "radon_uptime": 2018880,
+   "radon_uptime_string": "23d 08:48:00"
+  }
+ },
+ {
+  "version": 1,
+  "unit": "pCi",
+  "replies": {
+   "50": "500c3ee21c41e95607412b7d5841bb0e7a296acc",
+   "51": "510e00001c3902009deacf6049e47241"
+  },
+  "sensors": {
+   "radon": 9.81,
+   "radon_1day_level": 8.46,
+   "radon_1month_level": 13.53,
+   "radon_peak": 15.18,
+   "radon_uptime": 8741520,
+   "radon_uptime_string": "101d 04:12:00"
+  }
+ },
+ {
+  "version": 1,
+  "unit": "pCi",
+  "replies": {
+   "50": "500c14019e416200c53e799d98412490e197297c",
+   "51": "510e0000c0ac0500a878687ae0ac7840"
+  },
+  "sensors": {
+   "radon": 19.75,
+   "radon_1day_level": 0.38,
+   "radon_1month_level": 19.08,
+   "radon_peak": 3.89,
+   "radon_uptime": 22314240,
+   "radon_uptime_string": "258d 06:24:00"
+  }
+ }
+]
